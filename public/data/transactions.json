@@ -1,1 +1,33 @@
 
+[
+    {
+        "id": 1,
+        "customerId": "C001",
+        "amount": 120
+    },
+    {
+        "id": 2,
+        "customerId": "C002",
+        "amount": 80
+    },
+    {
+        "id": 3,
+        "customerId": "C001",
+        "amount": 200
+    },
+    {
+        "id": 4,
+        "customerId": "C003",
+        "amount": 150
+    },
+    {
+        "id": 5,
+        "customerId": "C002",
+        "amount": 60
+    },
+    {
+        "id": 6,
+        "customerId": "C003",
+        "amount": 50
+    }
+]
